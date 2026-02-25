@@ -1,18 +1,18 @@
-![Software Engineering Student](https://lh3.googleusercontent.com/sitesv/APaQ0SSAebGhsqF-x1AKJTUc78G-IiVW9ajQbGuuDN_daZXL9WVJeUdL0NtbJ8e6ByYhxLq666jXk4Tre6wDlJrBeNQ36Ex2rUwLTy5YAwrFN-ZGFkcm88d_PsHVI4HwWQL2FiHuhu-D68ayQ1DSYwNxoYy9UCKnXZvENEx84hF4s6LwmGOI-dwftgp7-h_m7665CbPP4zytdRrA1dLMr32JHRvd-1lUa641CIghcdw=w1280)
 ## Hi, I'm Antor Bosu Antu👋
+![Software Engineering Student](https://lh3.googleusercontent.com/sitesv/APaQ0SSA5VzeyVA3B_R27h2-pf2NFaisdsfCPfQSWtwpiPUatQS56hk5Lsxki3zre9VAU8TFd3gXAgOKMGu3OrG_wUs1FVm9NCSW3aCIaZO1CmGozCpTE10j0Nh7wa5CvBa2WDK3LjlB6HCdZDngt2dg3JcBskyvqnlL4KZKziBMykF714VnMd5qzMFECZE2qA7p06GnYnrLyF_vGBv-SV7nM72kVs5XyNPTBpTy=w1280)
 <p>
-  🧑‍💻 Wprking on AI / ML / DL / Computer Vision <br>
+  🧑‍💻 Working on AI / ML / DL / Computer Vision <br>
   📊 Major in Data Science <br>
   🎰 Like to make solutions using AI & ML <br>
   ✍️ Like to write my thoughts <br>
   🤯 Motivated to explore the Universe <br>
 </p>
-
+## 🚀 About Me
 Hi, I’m Antor Bosu Antu, an undergraduate Software Engineering student at Daffodil International University, majoring in Data Science.
 
 I’m passionate about AI, Machine Learning, Software Architecture, and scalable system design. I enjoy building practical, data-driven solutions to real-world problems by combining analytical thinking with hands-on development. 
 
-## 🧠 My interests include:
+## 🧠 Skills & Interest's
 ✅ Machine Learning & Computer Vision <br>
 ✅ Software Architecture (ATAM) <br>
 ✅ Scalable System Design using AI & ML <br>
@@ -30,21 +30,23 @@ Skills: Python / DS / AI / ML / DL / Computer Vision /  XAI / Software Developme
 - 📫 How to reach me: antu2305341317@diu.edu.bd 
 - ⚡ Fun fact: Full time poet ✍️, Part time Software Engineer 🧑‍💻. 
 
+## 📱 Connect With Me
+<p align="left">
+<a href="https://github.com/antu-1317" target="blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/antu-1317)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/18F34gRwHX/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@moviekhor1020?si=G5oEjf8JUxa9RBVv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://sites.google.com/diu.edu.bd/antor-bosu-antu)  
+<a href="https://www.facebook.com/share/18F34gRwHX/" target="blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<a href="https://youtube.com/@moviekhor1020" target="blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=antu-1317)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antu-1317)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=antu-1317&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/antu-1317/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/antu-1317)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=antu-1317)  
+<a href="http://sites.google.com/diu.edu.bd/antor-bosu-antu" target="blank">
+<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 
 

@@ -32,21 +32,21 @@ Skills: Python / DS / AI / ML / DL / Computer Vision /  XAI / Software Developme
 
 ## 📱 Connect With Me
 <p align="left">
-<a href="https://github.com/antu-1317" target="blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/antu-1317" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  </a>
 
-<a href="https://www.facebook.com/share/18F34gRwHX/" target="blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" height="50"/>
+  </a>
 
-<a href="https://youtube.com/@moviekhor1020" target="blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+  <a href="https://youtube.com/@moviekhor1020" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="50" height="50"/>
+  </a>
 
-<a href="http://sites.google.com/diu.edu.bd/antor-bosu-antu" target="blank">
-<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+  <a href="http://sites.google.com/diu.edu.bd/antor-bosu-antu" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" height="50"/>
+  </a>
 </p>
 
 

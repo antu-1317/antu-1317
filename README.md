@@ -1,5 +1,5 @@
 ## Hi, I'm Antor Bosu Antu👋
-![Software Engineering Student](https://lh3.googleusercontent.com/sitesv/APaQ0SSBCcBIJJMyus_tiMGvbzzQKQWTeN0LidqDh9Xie00gyAn1qtXEGxo8odeFDrd0kVC41Do_Z58-IY4RMnXkvTEOabY2pJNoAY1AJBfBVG0SBFyX6YXGibyMLrvYR_2Q4GQHygkdTr3m3CPbm-JVfsZrj_tVoYZYe96Z_Kxt6Xn8tRG3QkJEbDjyy_bTcQkNjLvDwc85mX-vomGRnix6ER_RrEosl7l9kxLR=w1280)
+![Software Engineering Student](Gemini_Generated_Image_dt8bundt8bundt8b.png)
 
 <p>
   🧑‍💻 Working on AI / ML / DL / Computer Vision <br>

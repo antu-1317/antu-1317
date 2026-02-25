@@ -1,5 +1,5 @@
 ## Hi, I'm Antor Bosu Antu👋
-![Software Engineering Student](https://lh3.googleusercontent.com/sitesv/APaQ0SSA5VzeyVA3B_R27h2-pf2NFaisdsfCPfQSWtwpiPUatQS56hk5Lsxki3zre9VAU8TFd3gXAgOKMGu3OrG_wUs1FVm9NCSW3aCIaZO1CmGozCpTE10j0Nh7wa5CvBa2WDK3LjlB6HCdZDngt2dg3JcBskyvqnlL4KZKziBMykF714VnMd5qzMFECZE2qA7p06GnYnrLyF_vGBv-SV7nM72kVs5XyNPTBpTy=w1280)
+![Software Engineering Student](https://lh3.googleusercontent.com/sitesv/APaQ0ST6IwVjIc4ohqv0MmjVtMjVlQ2MPIliJRXzBnFx0dpZfpXJ8y1MpoEhihmRCTHvLoNoF6ZfiP8KU4XKoV2UggVEmqtAmVwCnjCCVnLQEbWZgEDwuDa1P4A2QSz5I9tvXWVTnCeD71l6I2WIPVXS0K3GEDuKKrPw0I6DtuVUu8XYr7hHZUWzSfQJHCGCLaUXZDkd4MLoRTh9oNgzYtySsZPC5pZW4q_j_wQ=w1280)
 <p>
   🧑‍💻 Working on AI / ML / DL / Computer Vision <br>
   📊 Major in Data Science <br>
@@ -7,10 +7,9 @@
   ✍️ Like to write my thoughts <br>
   🤯 Motivated to explore the Universe <br>
 </p>
-## 🚀 About Me
-Hi, I’m Antor Bosu Antu, an undergraduate Software Engineering student at Daffodil International University, majoring in Data Science.
 
-I’m passionate about AI, Machine Learning, Software Architecture, and scalable system design. I enjoy building practical, data-driven solutions to real-world problems by combining analytical thinking with hands-on development. 
+## 🚀 About Me
+Hi, I’m Antor Bosu Antu, an undergraduate Software Engineering student at Daffodil International University, majoring in Data Science.I’m passionate about AI, Machine Learning, Software Architecture, and scalable system design. I enjoy building practical, data-driven solutions to real-world problems by combining analytical thinking with hands-on development. 
 
 ## 🧠 Skills & Interest's
 ✅ Machine Learning & Computer Vision <br>

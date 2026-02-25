@@ -1,4 +1,4 @@
-![Software Engineering Student]([antu.jpg](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/641453135_2181717092658585_6020982918538817790_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeEq3MIIb-_iKbhXVquN2Kw7eXtt2SwyunB5e23ZLDK6cPkMAQMbfoTIVAptwZpEXkPXdTxEr3ewkNaRdmiOUewa&_nc_ohc=OGaa0WhDKn0Q7kNvwHiMMN1&_nc_oc=AdnGg0lVvDkwlaYMKyvg0Q9dtsY_54VdkxSSjLLi67QzH52PH-ll-CSDUFz-ah-ex6Q&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=PggFZN0agxe6hBIF_WPaDA&oh=00_AfseJ5a1xtn9kYk8w6hwzuogqLjMyTPnM1ulIkWBv_Cltw&oe=69A4A7ED))
+![Software Engineering Student](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/492092675_1916477279182569_9083088607553597529_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeHRKlYXwXISXGrsc_TyJ6FaROXO_iMDnU5E5c7-IwOdTlfg5W_1MR2paWyEK8afyx0su0SkEwrtkN54Ila9Ack9&_nc_ohc=n1Uj3BXcsiQQ7kNvwHZDYzQ&_nc_oc=Adn3OhHEZV6ymMTI7E-N5OM4T4OQM8pnU3bR5iWL96YPGnFkjPVXefvWmoOHV0syU-I&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=md9K1g12AMKdiw7sf3zxaQ&oh=00_Afs_djVULg7mPT03iKeQ29iYVTIAt7mjMZ8GizguNg8-Zw&oe=69A4A523)
 ## Hi, I'm Antor Bosu Antu👋
 <p>
   🧑‍💻 Wprking on AI / ML / DL / Computer Vision <br>
@@ -13,11 +13,11 @@ Hi, I’m Antor Bosu Antu, an undergraduate Software Engineering student at Daff
 I’m passionate about AI, Machine Learning, Software Architecture, and scalable system design. I enjoy building practical, data-driven solutions to real-world problems by combining analytical thinking with hands-on development. 
 
 ## 🧠 My interests include:
-✅ Machine Learning & Computer Vision
-✅ Software Architecture (ATAM)
-✅ Scalable System Design using AI & ML
-✅ Data Science & Model Optimization
-✅ Automation & Intelligent Systems
+✅ Machine Learning & Computer Vision <br>
+✅ Software Architecture (ATAM) <br>
+✅ Scalable System Design using AI & ML <br>
+✅ Data Science & Model Optimization <br>
+✅ Automation & Intelligent Systems <br>
 
 Always learning. Always building. Always Explore.
 

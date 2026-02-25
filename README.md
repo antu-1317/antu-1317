@@ -1,4 +1,4 @@
-![Software Engineering Student](https://drive.google.com/drive/u/0/folders/1HKdmp9E5ZYr-RCLJX6XNWFMLuL2hic17)
+![Software Engineering Student](antu.jpg)
 ## Hi, I'm Antor Bosu Antu👋
 <p>
   🧑‍💻 Wprking on AI / ML / DL / Computer Vision <br>

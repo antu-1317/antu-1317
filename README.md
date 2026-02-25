@@ -14,16 +14,16 @@
 Hi, I’m Antor Bosu Antu, an undergraduate Software Engineering student at Daffodil International University, majoring in Data Science. I’m passionate about AI, Machine Learning, Software Architecture, and scalable system design. I enjoy building practical, data-driven solutions to real-world problems by combining analytical thinking with hands on development. 
 
 ## 🧠 Skills 
-✅ Programming & Scripting Languages: Python, C, Java, JavaScript, PHP
-✅ Data Science & Analytics: Pandas, NumPy, Matplotlib
-✅ Machine Learning & Deep Learning: Scikit-Learn, TensorFlow, Keras
-✅ Computer Vision & AI Applications: OpenCV, YOLO, Image Processing, Object Detection
-✅ Software Architecture & Design: ATAM, System Design, Scalable Solutions
-✅ Automation & Intelligent Systems: AI-driven automation
-✅ Database & Data Management: SQL
-✅ Web Development & APIs: HTML, CSS, Django, REST APIs
-✅ Version Control & Collaboration: Git, GitHub
-✅ Research & Model Optimization: Hyperparameter Tuning, XAI (Explainable AI), Model Evaluation
+✅ Programming & Scripting Languages: Python, C, Java, JavaScript, PHP <br>
+✅ Data Science & Analytics: Pandas, NumPy, Matplotlib <br>
+✅ Machine Learning & Deep Learning: Scikit-Learn, TensorFlow, Keras <br>
+✅ Computer Vision & AI Applications: OpenCV, YOLO, Image Processing, Object Detection <br>
+✅ Software Architecture & Design: ATAM, System Design, Scalable Solutions <br>
+✅ Automation & Intelligent Systems: AI-driven automation <br>
+✅ Database & Data Management: SQL <br>
+✅ Web Development & APIs: HTML, CSS, Django, REST APIs <br>
+✅ Version Control & Collaboration: Git, GitHub <br>
+✅ Research & Model Optimization: Hyperparameter Tuning, XAI (Explainable AI), Model Evaluation <br>
 
 Always learning. Always building. Always Explore.
 
@@ -50,8 +50,10 @@ Always learning. Always building. Always Explore.
 
 ## 📩 Contact Me
 <p align="left">
-<a href="antu2305341317@diu.edu.bd" target="blank">
-</a>
+  <a href="mailto:antu2305341317@diu.edu.bd" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
+  </a>
+</p>
 
 
 

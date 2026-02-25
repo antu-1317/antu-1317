@@ -1,4 +1,4 @@
-![Software Engineering Student](https://yt3.googleusercontent.com/fT3SL2vv9vnTHW5e0RnZViaH3iCVpcjH_vGmKtMQHZVmZEN02g2yS7exXaLsiHsq30OX1L5e=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![Software Engineering Student](https://lh3.googleusercontent.com/sitesv/APaQ0SSAebGhsqF-x1AKJTUc78G-IiVW9ajQbGuuDN_daZXL9WVJeUdL0NtbJ8e6ByYhxLq666jXk4Tre6wDlJrBeNQ36Ex2rUwLTy5YAwrFN-ZGFkcm88d_PsHVI4HwWQL2FiHuhu-D68ayQ1DSYwNxoYy9UCKnXZvENEx84hF4s6LwmGOI-dwftgp7-h_m7665CbPP4zytdRrA1dLMr32JHRvd-1lUa641CIghcdw=w1280)
 ## Hi, I'm Antor Bosu Antu👋
 <p>
   🧑‍💻 Wprking on AI / ML / DL / Computer Vision <br>
